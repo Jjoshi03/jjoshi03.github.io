@@ -1,5 +1,6 @@
 [build]
-publish = "exampleSite/public"
+#publish = "exampleSite/public"
+publich = "exampleSite/docs"
 command = "cd exampleSite && hugo --gc --minify --themesDir ../.."
 
 [context.production.environment]
