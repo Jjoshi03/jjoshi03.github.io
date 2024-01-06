@@ -189,6 +189,27 @@ params:
           - Demonstrated expertise in test artifacts design - Test plan, Test case, Requirement traceability matrix, Defect report, Release sign-off report.
           - Executed the complete SDLC cycle, demonstrating expertise in test planning, design, and execution, contributing to improved testing efficiency and reduced time.
 
+      - job: "Computer Science Tutor (Student Assistant)"
+        company: "Student Center for Academic Achievement (SCAA)"
+        companyUrl: "https://www.csueastbay.edu/scaa/"
+        date: "Aug 2022 - Dec 2023"
+        info:
+          enable: true
+          content: "Location: Hayward, CA, USA "
+        featuredLink:
+          enable: false
+          url: "https://www.csueastbay.edu/scaa/"
+        info:
+          content:
+        content: |-
+          Hayward, CA, USA
+          - Empowered students in mastering Object-Oriented Programming (Java, C++) as a Computer Science tutor, fostering confident problem-solving skills.
+          - Cultivated a profound understanding of Data Structures and Algorithms Analysis (DSAA) principles, guiding students to create efficient and scalable coding solutions.
+          - Inspired coding excellence by mentoring students to excel in clean, efficient, and scalable coding practices, emphasizing software development principles.
+
+
+
+
       - job: "Software Engineer Intern"
         company: "Prarambhan Pvt. Ltd."
         companyUrl: "https://www.thecompanycheck.com/company/prarambhan-entertainment-private-limited/U92412MH2015PTC269465"
