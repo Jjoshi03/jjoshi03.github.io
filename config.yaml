@@ -186,10 +186,11 @@ params:
           - Automated REST API checks using Postman, ensuring usability and correctness and resulting in significant time savings.
           - Strategized and implemented the delivery pipeline by streamlining CI/CD workflows through seamless integration of Jenkins, Bitbucket, and Jira, resulting in accelerated software delivery cycles.
           - Designed and implemented Selenium WebDriver frameworks with TestNG and Java, focusing on ETL performance optimization for enhanced reliability in XML file handling.
+          - Demonstrated expertise in test artifacts design - Test plan, Test case, Requirement traceability matrix, Defect report, Release sign-off report.
           - Executed the complete SDLC cycle, demonstrating expertise in test planning, design, and execution, contributing to improved testing efficiency and reduced time.
 
       - job: "Software Engineer Intern"
-        company: "Prarambhan Pvt. ltd"
+        company: "Prarambhan Pvt. Ltd."
         companyUrl: "https://www.thecompanycheck.com/company/prarambhan-entertainment-private-limited/U92412MH2015PTC269465"
         date: "Mar 2016 - May 2016"
         info:
@@ -254,7 +255,7 @@ params:
 
       - title: Certified Indian Classical Dancer
         content: Achieved proficiency in Indian classical dance through seven years of dedicated training.
-        url: "https://drive.google.com/file/d/1of3UoLVBq_qJfZ8NuChNg5t_p2wFQMVP/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1R3ZdDAHpvrd-QkUHaMbrrhqRrgw5jSNl/view?usp=sharing"
 
       - title: Recommendation by Francois Ogliaro
         content: I worked for about 4.5 years with Janki while she was at TCoE BNPP in quality of software tester for the Rates eTrading platform. Rapidly after joining Janki became a go-to person due to her broad range of skills (inc. software development) and easy contact. Soon she single-handed managed complex tasks such as technology migration and full application regression. In addition Janki has a quite and natural authority which draws respect from all colleagues. Overall and due to her attitude and professionalism I am convinced that Janki will fit and do well in pretty much any set up and any role.
